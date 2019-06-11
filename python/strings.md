@@ -37,6 +37,7 @@ print(fixedString)    # Hello, how are you doing?
 
 ```
 
+---
 
 ### Count
 
@@ -62,6 +63,11 @@ print(string.count(substring))   # 1
 print(string.count("a"))         # 2
 print(string.count("a", 0, 5))   # 1
 ```
+---
+
+### Find
+* Returns index of first occurence of substring
+* If not found, returns -1
 
 
 
