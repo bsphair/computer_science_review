@@ -23,7 +23,7 @@ computerBrand[0] = 'B'    # error
 
 ## Methods
 
-### Capitalize
+### Capitalize()
 
 * Converts first character of a string to uppercase letter and lowercases all other characters
 * Doesn't modify original string
@@ -39,7 +39,7 @@ print(fixedString)    # Hello, how are you doing?
 
 ---
 
-### Count
+### Count()
 
 * Returns the number of occurences of a substring in the given string
 * Optional parameters 'start' and 'end', specify the start/end positions in the string
@@ -65,11 +65,25 @@ print(string.count("a", 0, 5))   # 1
 ```
 ---
 
-### Find
+### Find()
 * Returns index of first occurence of substring
 * If not found, returns -1
 
+Syntax
+```
+string.find(substring[, start[, end]])
+```
 
+Parameters
+* substring - string to be searched
+* start/end (optional)
+
+```
+string = 'Hello there. hello how are you doing?'
+
+print(string.find('hello'))     # 13 
+print(string.find('Hello'))     # 0 
+```
 
 ## References
 * https://www.programiz.com/python-programming/methods/string
