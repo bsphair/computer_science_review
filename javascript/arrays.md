@@ -53,6 +53,8 @@ Will print
 'Steven'
 ```
 
+***
+
 ### for...in
 
 * iterates through the keys
@@ -70,3 +72,5 @@ Will print
 0
 1
 ```
+
+***
