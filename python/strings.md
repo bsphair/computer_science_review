@@ -54,7 +54,14 @@ Only requires a single parameter (substring)
 * start (optional) - starting index in string where the search starts
 * end (optional) - ending index in string where search ends
 
+```
+string = "I have an Apple computer"
+substring = "h"
 
+print(string.count(substring))   # 1
+print(string.count("a"))         # 2
+print(string.count("a", 0, 5))   # 1
+```
 
 
 
