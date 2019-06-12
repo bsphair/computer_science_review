@@ -5,7 +5,7 @@
 ## Call Stack
 * A mechanism for an interpreter to keep track of its place in a script that calls multiple functions
 * Process
-** When function is called, interpreter adds it to call stack, then starts carrying out the function 
+* * When function is called, interpreter adds it to call stack, then starts carrying out the function 
 
 
 
