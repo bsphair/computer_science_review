@@ -19,3 +19,7 @@
   * is immutable (can't be altered)
 
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
+## What is a callback?
+
+* A callback is a function that is to be executed after another function has finished executing
