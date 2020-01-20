@@ -23,3 +23,11 @@
 ## What is a callback?
 
 * A callback is a function that is to be executed after another function has finished executing
+
+## Name two programming paradigms important to Javascript app devs.
+
+* Prototypal inheritance
+  * Objects without classes
+  * Prototype delegation
+  * OLOO - Objects Linking to Other Objects
+* Functional programming (also: closures, first class functions, lambdas)
