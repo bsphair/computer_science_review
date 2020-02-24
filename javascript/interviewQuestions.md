@@ -31,3 +31,12 @@
   * Prototype delegation
   * OLOO - Objects Linking to Other Objects
 * Functional programming (also: closures, first class functions, lambdas)
+
+## What is the difference between undefined and null?
+
+Undefined
+* Is the default value of a variable that has not been assigned a value
+
+Null
+* Is a value that represents no value
+
