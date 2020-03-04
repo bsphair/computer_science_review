@@ -1,3 +1,6 @@
+## Links
+* [BigO Cheatsheet](https://www.bigocheatsheet.com)
+
 ## O(1)
 
 * Executes in the same time
@@ -33,7 +36,7 @@ for (let index = 0; index < arr.length; index++) {
 * Nested for loops
 * Examples:
   * Bubble sort, Insert sort, Selection Sort
-
-
+* Links
+  * https://hackernoon.com/what-does-the-time-complexity-o-log-n-actually-mean-45f94bb5bfbf
 
 
