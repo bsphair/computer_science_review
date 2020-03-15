@@ -18,3 +18,7 @@
   
 ## References
 * [https://docs.docker.com/reference/](https://docs.docker.com/reference/)
+
+## Clearing Hanging Containers
+* Will delete containers with <none> ids
+* `$ docker rm $(docker ps -a -q -f status=exited)`
