@@ -10,3 +10,11 @@
   * Must specify an IMAGE from which to derive the container
 
 * Detached vs foreground
+  * Defaults to foreground mode
+  * `-d` or `-d=true` will make container run in background
+
+### References
+* [https://docs.docker.com/engine/reference/run/](https://docs.docker.com/engine/reference/run/)
+  
+## References
+* [https://docs.docker.com/reference/](https://docs.docker.com/reference/)
