@@ -52,7 +52,9 @@ DELETE /users/{id} (delete a user model)
 GET /users/{id} (retrieve a user model)
 ```
 
+### Design a LRU (Least Recently Used) Cache
 
+[https://www.interviewcake.com/concept/java/lru-cache](https://www.interviewcake.com/concept/java/lru-cache)
 
 
 
