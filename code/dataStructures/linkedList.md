@@ -27,6 +27,15 @@ class LinkedList:
         while currentNode:
             print(currentNode.data)
             currentNode = currentNode.nextNode
+    
+    def insert(self, data, prevValue):
+        currentNode = self.head
+        while currentNode and currentNode.data != prevValue:
+            currentNode = currentNode.nextNode
+        
+        if currentNode.data == prevValue:
+            newNode = Node(data, currentNode.nextNode)
+            currentNode.nextNode = newNode
 
 newList = LinkedList()
 newList.add_node(1)
