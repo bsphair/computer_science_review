@@ -65,12 +65,13 @@ The first thing React will do when setState is called is merge the object you pa
 ## What are Controlled Components?
 
 #### Explanation 1
-In HTML, form elements such as <input>, <textarea>, and <select> typically maintain their own state and update it based on user input. When a user submits a form, the values from the elements mentioned above are sent with the form. With React it works differently. The component containing the form will keep track of the value of the input in its state and will re-render the component each time the callback function, e.g., onChange is fired as the state will be updated. An input form element whose value is controlled by React in this way is called a "controlled component".
+In HTML, form elements such as `<input>`, `<textarea>`, and `<select>` typically maintain their own state and update it based on user input. When a user submits a form, the values from the elements mentioned above are sent with the form. With React it works differently. The component containing the form will keep track of the value of the input in its state and will re-render the component each time the callback function, e.g., onChange is fired as the state will be updated. An input form element whose value is controlled by React in this way is called a "controlled component".
 
 #### Explanation 2
 A large part of React is this idea of having components control and manage their own state. What happens when we throw native HTML form elements (input, select, textarea, etc) into the mix? Should we have React be the “single source of truth” like we’re used to doing with React or should we allow that form data to live in the DOM like we’re used to typically doing with HTML form elements? These two questions are at the heart of controlled vs. uncontrolled components.
 
 A controlled component is a component where React is in control and is the single source of truth for the form data. 
+
 
 ## What are keys in React and why are they important?
 
