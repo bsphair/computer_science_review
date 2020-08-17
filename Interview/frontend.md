@@ -3,7 +3,6 @@
 ## What are some ways to deal with a slow webpage
 
 ### Enable compression
-  * fjd
   
 ### Minify CSS, JavaScript, HTML
 
@@ -66,3 +65,5 @@
 
 ## REST vs SOAP
 
+#### Reference
+[https://raygun.com/blog/soap-vs-rest-vs-json/](https://raygun.com/blog/soap-vs-rest-vs-json/)
