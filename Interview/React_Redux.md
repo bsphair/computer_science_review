@@ -107,6 +107,22 @@ Has the following properties
 
 * Its evaluation has no side effects (no mutation of local static variables, non-local variables, mutable reference arguments or I/O streams).
 
+## What is a hook?
+* Hooks are functions that let you "hook" into React state and lifecycle features from function components
+
+### Hook Rules
+* Don't call inside loops, conditions, nested functions
+* Only call from funcation components
+
+### useState
+* Declares a "state variable"
+* Returns current state and a function that updates it
+
+### useEffect
+* Serves the same purpose as `componentDidMount`, `componentDidUpdate`, `componentWillUnmount`
+* When called, you're telling React to run your "effect" function after flushing changes to the DOM
+
+
 
 
 
