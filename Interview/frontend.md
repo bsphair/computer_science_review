@@ -2,7 +2,13 @@
 
 ## What are some ways to deal with a slow webpage
 
+### Minimize HTTP requests
+* When page loads, corresponding files (CSS files, JavaScript library references, image) sent to person's browser
+* Every file reduces performance
+* Reduce number of unnecessary requests
+
 ### Enable compression
+* zip the files
   
 ### Minify CSS, JavaScript, HTML
 
