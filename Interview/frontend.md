@@ -73,3 +73,15 @@
 
 #### Reference
 [https://raygun.com/blog/soap-vs-rest-vs-json/](https://raygun.com/blog/soap-vs-rest-vs-json/)
+
+## Synchronous vs Asynchronous
+
+#### Synchronous
+* In a synchronous model, things happen one at a time
+* Function call runs and returns only when action has finished
+* Will stop the program for the time the action takes
+
+#### Asynchronous
+* Allows multiple things to happen at once
+
+
