@@ -84,4 +84,18 @@
 #### Asynchronous
 * Allows multiple things to happen at once
 
+## Security
+
+### Best Practices for Authentication
+
+#### HTTP Basic Authentication
+* pass a name + password with every request
+* server authenticates each interaction with user
+
+#### Tokens with Expiry Policy
+* When client sends username/password, server returns a token
+* Token then used to authenticate further requests
+* As soon as the token is received, can discard/clear the user's username/password
+* Token should expire after a certain time 
+
 
