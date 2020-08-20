@@ -172,10 +172,13 @@ Has the following properties
 
 ## Patterns
 
-## Presentational Component Pattern
+### Presentational Component Pattern
 * primarily concerned with how things look
 * primary function => display data
-* best written as stateless functional components
+* most times they contain no more than a render method.
+* presentational components do not know how to load or alter the data that they render.
+* presentational components rarely have any internally changeable state properties.
+* presentational components best written as stateless functional components.
 
 ```javascript
 const SchoolList = props =>
@@ -186,6 +189,12 @@ const SchoolList = props =>
     </ol>
 ```
 
+### Container Component Pattern
+* concerned with how things work.
+* may contain presentational components
+  * presentational components don’t contain container components.
+* provides data and behavior to presentational components and other container components.
+* because they are mostly data sources, they are often stateful.
 
 
 
