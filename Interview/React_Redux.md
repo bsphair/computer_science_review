@@ -122,14 +122,69 @@ Has the following properties
 * Serves the same purpose as `componentDidMount`, `componentDidUpdate`, `componentWillUnmount`
 * When called, you're telling React to run your "effect" function after flushing changes to the DOM
 
+## Lifecyle Methods
+
+![Screen Shot 2020-08-20 at 1 35 02 PM](https://user-images.githubusercontent.com/15611930/90805813-26d5ec80-e2ea-11ea-86f5-9d0eb8a62cd6.png)
+* Reference: [https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+
+### Mounting
+
+#### componentDidMount()
+* invoked immediately after a component is mounted (inserted into the tree)
+* method is used for
+  * initialization that requires DOM nodes
+  * load data from endpoint (API calls)
+  * Set up subscriptions
+* can call `setState()` but will trigger an extra rendering
+  * extra render will happen before browser updates the screen
+  * user won't see the intermediate/multiple states
+  
+#### render()
+* is the only required method in a class component
+
+### Updating
 
 
+#### componentDidUpdate()
+* invoked immediately after updating occurs
+* not call for initial render
+* `setState()` must be wrapped in a conditional statement to prevent infinite loop
+
+### Unmounting
 
 
+#### componentWillUnmount()
+* invoked immediately before a component is unmounted and destroyed
+* perform any cleanup here
+  * invalidating timers
+  * canceling network requests
+  * cleaning up subscriptions
 
 
+## Error Boundaries
+
+### getDerivedStateFromError()
+* lifecycle invoked after an error has been thrown by a descendant component
+
+### componentDidCatch()
+* lifecycle invoked after an error has been thrown by a descendant component
 
 
+## Patterns
+
+## Presentational Component Pattern
+* primarily concerned with how things look
+* primary function => display data
+* best written as stateless functional components
+
+```javascript
+const SchoolList = props =>
+    <ol>
+      {props.schools.map(s => (
+        <li>{s.name} - {s.grade}</li> 
+      ))}
+    </ol>
+```
 
 
 
