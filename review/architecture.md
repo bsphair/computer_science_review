@@ -1,7 +1,7 @@
 # Architecture
 
 ## Microservices
-* Allows developers to create separate components of an application through building an application from a combination of small services
+* Allows  developers to create separate components of an application through building an application from a combination of small services
 * Each service is built individually and deployed separately
   * Run their own processes
   * Communicate via lightweight APIs
