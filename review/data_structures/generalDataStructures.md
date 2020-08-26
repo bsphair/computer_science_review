@@ -1,5 +1,27 @@
 # General Data Structures
 
+## Array
+* Contiguously-allocated data structure
+* Advantages:
+  *  Constant-time access given the index
+  *  Space efficiency 
+  *  No space is wasted with links/formatting information
+  *  Memory locality
+  *  Physical continuity btw data helps exploit high-speed cache memory
+
+### Dynamic Array
+* Double each time size becomes too small
+* The total work of managing the dynamic array is the same O(n) as it would have been if a single array of sufficient size had been allocated in advance
+* Worst part of dynamic array
+* Guarantee that each array access takes constant time is LOST in worst case due to resizing
+* All queries will be fast except the few queries that trigger array size doubling
+* In the end, the total effort will still be O(n)
+
+Links
+[http://www.fredosaurus.com/notes-cpp/newdelete/55dynexample.html
+](http://www.fredosaurus.com/notes-cpp/newdelete/55dynexample.html
+)
+
 ## Stack vs Heap
 * Static Memory Allocation -> stack
 * Dynamic Memory Allocation -> heap
@@ -32,3 +54,4 @@
 * If you need to allocate large block of memory (large array, big struct), and you need to keep that variable around a long time, allocate it on the heap
 * If you need variables (arrays, structs) that can change dynamically, use the heap
 * If you need smaller variables that only need to persists as long as the function using them is alive, use the stack
+
