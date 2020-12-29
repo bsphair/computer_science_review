@@ -4,8 +4,8 @@
 
 ## Operations
 
-* Traverse - print all elements one by one
-* Insertion - adds an element at a given index
-* Deletion - delete an element at a given index
-* Search - searches for an element using given index or by the value
-* Update - update an element at given index
+* <b>Traverse</b> - print all elements one by one
+* <b>Insertion</b> - adds an element at a given index
+* <b>Deletion</b> - delete an element at a given index
+* <b>Search</b> - searches for an element using given index or by the value
+* <b>Update</b> - update an element at given index
