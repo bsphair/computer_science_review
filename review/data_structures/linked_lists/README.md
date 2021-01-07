@@ -47,10 +47,20 @@ delete   | O(n)
 
 * Dynamic size
 * Ease of insertion/deletion
+* Adding elements to either end is O(1)
 
 ## Disadvantages 
 
 * No random access
+* Costly lookups
+  * Must travel from head to tail searching taking O(i) time
+* Not cache-friendly
+  * Computers may have caching systems that make reading from sequential addresses in memory fast than scattered addresses
+  * Since arrays are sequential, they could be faster
+  * Both are theoretically O(n) time
+ 
+## Uses
+* Stacks and queues
 
 
 
