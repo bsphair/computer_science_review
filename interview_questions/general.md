@@ -7,7 +7,7 @@ General Interview Questions
 * Work Preferences
 * Experience
 * Team
-* Goals
+* [Goals](#goals)
 
 ## Personal Questions
 
