@@ -2,7 +2,13 @@ General Interview Questions
 ===========================
 
 ## Table of Contents
-* [Personal Questions](#Personal-Questions)
+* [General](#general)
+  * [Tell me about yourself](#introduction)
+  * [How did you hear about this position?](#position-exposure)
+  * [What made you apply?](#what-made-you-apply)
+  * [What do you know about the company?](#company-knowledge)
+  * [Why are you looking to leave your current position?](#leaving-current-position)
+  * [What about your job do you like/don’t like?](#current-job-dislikes)
   * [How did you get into coding?](#How-did-you-get-into-coding)
   * [What do you find most satisfying about this line of work?](#work-satisfaction)
   * [What are your hobbies?](#hobbies)
@@ -10,7 +16,9 @@ General Interview Questions
 * [Work Preferences](#work-preferences)
   * [What's your preferred type of development environment?](#preferred-dev-env)
   * [Do you prefer to work individually or as a team member?](#individual-vs-team)
+  * [What kind of manager do you prefer?](#manager-preference)
 * [Experience](#experience)
+  * [Tell us about your work background and how you believe it relates to this position](#experience-job-relationship)
   * [What's your greatest strength as a coder?](#greatest-strength)
   * [Tell me about the accomplishments you're most proud of in your career so far.](#accomplishments)
   * [In your last position, what were your primary job responsibilities?](#last-job-responsibilities)
@@ -26,10 +34,20 @@ General Interview Questions
 * [Goals](#goals)
   * [Where do you see yourself professionally in five years?](#five-year-outlook)
 
-## Personal Questions
+## General
+
+### <a name="introduction"/> Tell me about yourself.
+
+### <a name="position-exposure"/> How did you hear about this position?
+
+### <a name="what-made-you-apply"/> What made you apply?
+### <a name="company-knowledge"/> What do you know about the company?
+
+### <a name="leaving-current-position"/> Why are you looking to leave your current position?
+
+### <a name="current-job-dislikes"/> What about your job do you like/don’t like?
 
 ### How did you get into coding?
-Answer
 
 ### <a name="work-satisfaction"/> What do you find most satisfying about this line of work?
 
@@ -45,9 +63,12 @@ Answer
 
 ### <a name="individual-vs-team"/> Do you prefer to work individually or as a team member?
 
+### <a name="manager-preference"/> What kind of manager do you prefer?
 
 
 ## Experience
+
+### <a name="experience-job-relationship"/> Tell us about your work background and how you believe it relates to this position.
 
 ### <a name="greatest-strength"/> What's your greatest strength as a coder?
 
