@@ -8,16 +8,16 @@ General Interview Questions
   * [What are your hobbies?](#hobbies)
   * [How did you hear about our company?](#company-exposure)
 * [Work Preferences](#work-preferences)
- * [What's your preferred type of development environment?](#preferred-dev-env)
- * [Do you prefer to work individually or as a team member?](#individual-vs-team)
+  * [What's your preferred type of development environment?](#preferred-dev-env)
+  * [Do you prefer to work individually or as a team member?](#individual-vs-team)
 * [Experience](#experience)
- * [What's your greatest strength as a coder?](#greatest-strength)
- * [In your last position, what were your primary job responsibilities?](#last-job-responsibilities)
+  * [What's your greatest strength as a coder?](#greatest-strength)
+  * [In your last position, what were your primary job responsibilities?](#last-job-responsibilities)
 * [Learning](#learning)
- * [How do you stay current with back-end development trends?](#staying-current)
+  * [How do you stay current with back-end development trends?](#staying-current)
 * [Team](#team)
 * [Goals](#goals)
- * [Where do you see yourself professionally in five years?](#five-year-outlook)
+  * [Where do you see yourself professionally in five years?](#five-year-outlook)
 
 ## Personal Questions
 
