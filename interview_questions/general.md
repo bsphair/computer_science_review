@@ -3,7 +3,7 @@ General Interview Questions
 
 ## Table of Contents
 * Personal Questions
-  * [How did you get into coding?](#How did you get into coding?)
+  * [How did you get into coding?](#How-did-you-get-into-coding)
 * Work Preferences
 * Experience
 * Team
