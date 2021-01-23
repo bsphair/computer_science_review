@@ -1,9 +1,9 @@
 General Interview Questions
 ===========================
 
-## <a name='toc'>Table of Contents</a>
+## Table of Contents
 * Personal Questions
-  * [Coding Origins](#coding-origins)
+  * [Coding Origins](#Coding-Origins)
 
 ### <a name='toc'>Personal Questions
 
