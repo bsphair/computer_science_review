@@ -5,7 +5,7 @@ General Interview Questions
 * [Personal Questions](#Personal-Questions)
   * [How did you get into coding?](#How-did-you-get-into-coding)
   * [What do you find most satisfying about this line of work?](#What-do-you-find-most-satisfying-about-this-line-of-work)
-  * [What are your hobbies?](#What-are-your-hobbies)
+  * [What are your hobbies?](#hobbies)
   * [How did you hear about our company?](#How-did-you-hear-about-our-company)
 * Work Preferences
 * Experience
@@ -20,7 +20,7 @@ Answer
 ### What do you find most satisfying about this line of work?
 Answer
 
-### What are your hobbies?
+### <a name="hobies" />What are your hobbies?
 Answer
 
 ### How did you hear about our company?
