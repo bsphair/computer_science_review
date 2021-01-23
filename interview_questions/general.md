@@ -32,33 +32,28 @@ General Interview Questions
 Answer
 
 ### <a name="work-satisfaction"/> What do you find most satisfying about this line of work?
-Answer
 
 ### <a name="hobbies"/> What are your hobbies?
-Answer
 
 ### <a name="company-exposure"/> How did you hear about our company?
-Answer
+
 
 
 ## Work Preferences
 
 ### <a name="preferred-dev-env"/> What's your preferred type of development environment?
-Answer
 
 ### <a name="individual-vs-team"/> Do you prefer to work individually or as a team member?
-Answer
+
 
 
 ## Experience
 
 ### <a name="greatest-strength"/> What's your greatest strength as a coder?
-Answer
 
 ### <a name="accomplishments"/> Tell me about the accomplishments you're most proud of in your career so far.
 
 ### <a name="last-job-responsibilities"/> In your last position, what were your primary job responsibilities?
-Answer
 
 ### <a name="led-dev-projects"/> Have you led development projects?
 
@@ -67,7 +62,6 @@ Answer
 ## Learning
 
 ### <a name="staying-current"/> How do you stay current with back-end development trends?
-Answer
 
 ### <a name="work-criticism"/> Tell me about a time when your work was criticized, and how you responded.
 
@@ -86,4 +80,3 @@ Please explain in some detail about the incident, but remember to put a positive
 ## Goals
 
 ### <a name="five-year-outlook"/> Where do you see yourself professionally in five years?
-Answer
