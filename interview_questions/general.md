@@ -4,8 +4,8 @@ General Interview Questions
 ## Table of Contents
 * [Personal Questions](#Personal-Questions)
   * [How did you get into coding?](#How-did-you-get-into-coding)
-  * [What do you find most satisfying about this line of work?](#What-do-you-find-most-satisfying-about-this-line-of-work)
-  * [Hobies](#hobies)
+  * [Work satifaction](#work-satisfaction)
+  * [Hobbies](#hobbies)
   * [How did you hear about our company?](#How-did-you-hear-about-our-company)
 * Work Preferences
 * Experience
@@ -17,10 +17,10 @@ General Interview Questions
 ### How did you get into coding?
 Answer
 
-### What do you find most satisfying about this line of work?
+### <a name="work-satisfaction"/> What do you find most satisfying about this line of work?
 Answer
 
-### <a name="hobies" />What are your hobbies?
+### <a name="hobbies"/> What are your hobbies?
 Answer
 
 ### How did you hear about our company?
